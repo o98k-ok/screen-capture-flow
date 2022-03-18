@@ -1,9 +1,9 @@
 # screen-capture-flow
 
-<img title="" src="assets/2022-03-18-10-49-21-image.png" alt="" width="169" data-align="center">
+<p align="center"><img title="" src="assets/2022-03-18-10-49-21-image.png" alt="" width="169" ></p>
 
 <h1 align="center">Screen-Capture-FLow</h1>
-<div align="center">screen-capture and screen-record via alfred-workflow</vid>
+<div align="center">screen-capture and screen-record via alfred-workflow</div>
 
 ---
 
